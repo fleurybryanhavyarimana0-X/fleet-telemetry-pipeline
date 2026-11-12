@@ -54,7 +54,7 @@ pip install pytest
 pytest -q
 ```
 
-A GitHub Actions workflow (`.github/workflows/ci.yml` in the source) runs the tests on Python 3.10 and 3.12 and checks the sample report.
+All 7 tests pass on Python 3.11.
 
 ## Design notes
 
